@@ -4,3 +4,4 @@ This is a work in progress, it's based on an old RGB hat design that's based on 
 The only thing here is the gerbers but the build is simple, remember to populate the resistors on one side only, through hole or surface mount.
 
 I will update this with pictures of a complete board and a parts list in a few weeks. 
+If anyone would like to improve on it or add an RGB to component section on a larger board that would be great.
